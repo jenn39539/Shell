@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{if (NR == LINE_NUMBER) 3}' iacta
+tail -n 3 iacta
