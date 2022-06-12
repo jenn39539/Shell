@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n | grep -v [2468] | cut -f2
